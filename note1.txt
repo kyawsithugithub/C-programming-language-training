@@ -1,0 +1,11 @@
+1. syntax - *how to write code
+2. output - *printf() function, escape charactor
+3. variables - *types - int, float, double, char; use variables in printf() function; naming rules;
+4. input - *scanf() function, accept value from user
+4. arithmetic operator - +, -, *, /, %
+5. relational operator - >, <, >=, <=, ==, !=
+6. logical operator - &&, ||, ! 
+7. decision making - if, else if
+8. looping - for loop, while loop, do while loop
+9. array -
+10. function -
